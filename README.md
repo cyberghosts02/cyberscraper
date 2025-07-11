@@ -44,24 +44,25 @@ git clone https://github.com/cyberghosts02/cyberscraper
 cd cyberscraper
 ```
 📲 Setup Virtual Environment (optional but recommended)
-
+```
 pip install virtualenv
 virtualenv .venv
 source .venv/bin/activate
-
+```
 🧪 Install Requirements
-
+```
 pip install -r requirements.txt
-
+```
 If you don’t have requirements.txt, use:
-
+```
 pip install requests beautifulsoup4 colorama pyfiglet python-whois exifread python-docx PyPDF2
-
+```
 
 🚦 Usage
+```
 chmod +x cyber-scraper.py
 python3 cyber-scraper.py
-
+```
 📁 Output Files
 
     All results are saved automatically in the scraped/ folder
@@ -71,8 +72,9 @@ python3 cyber-scraper.py
 
 ## Developed By:
 SIG-X / CYBER ALPHA
+```
 kamikazexcyberghosts@proton.me
-
+```
 ⚠️ Disclaimer
 
 This tool is created strictly for educational and authorized penetration testing purposes.

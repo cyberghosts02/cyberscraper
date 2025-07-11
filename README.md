@@ -1,4 +1,4 @@
-# 🛠️ CYBER ALPHA Toolkit
+# 🛠️ CYBER SCRAPER Toolkit
 
 > A professional-grade CLI cyber toolkit built for ethical hackers, penetration testers, and red teamers.
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Overview
 
-`CYBER ALPHA` is a terminal-based hacking & recon toolkit, created for expert-level users with a focus on:
+`CYBER SCRAPER` is a terminal-based hacking & recon toolkit, created for expert-level users with a focus on:
 
 - Advanced Web Scraping
 - Vulnerability Scanners

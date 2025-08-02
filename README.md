@@ -81,5 +81,12 @@ This tool is created strictly for educational and authorized penetration testing
 Any misuse of this software will not be the responsibility of the developer. Use responsibly.
 ⭐ Contribute
 
+
 Pull requests, suggestions, or improvements are welcome. Fork it, customize it, and share back.
 
+---
+**CYBER GHOSTS** is a cybersecurity research group led by **ALPHA**.  
+Specializing in OSINT, penetration testing, and red teaming.  
+
+📌 Official GitHub: [https://github.com/cyberghosts02](https://github.com/cyberghosts02)  
+---
